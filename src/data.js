@@ -7,5 +7,5 @@ class InputRangeSize {
 };
 
 export const opacityRange = new InputRangeSize("0", "1", "0.1");
-export const borderRadiusRange = new InputRangeSize("0", "100", "1");
+export const borderRadiusRange = new InputRangeSize("0", "50", "1");
 export const fontSizeRange = new InputRangeSize("10", "40", "1");
